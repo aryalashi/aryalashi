@@ -8,10 +8,7 @@
 ### Connect with me:
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ashisharyal580) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-aryal-030875201/) [![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=GitHub&logoColor=white)](https://github.com/aryalashi)
-
-
 <br> 
-
 ### Languages and Tools:
 
 <div align="center">
