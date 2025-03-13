@@ -3,7 +3,7 @@
 
 ### Computer Engineering Undergrad from Nepal
 
-- 📫 How to reach me **[ashisharyal580@gmail.com](mailto:ashisharyal580@gmail.com)**
+- 📫 How to reach me **[saitamaxenos1@gmail.com](mailto:saitamaxenos1@gmail.com)**
 
 ### Connect with me:
 
